@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/qwerty-4/1p/main/Check%20all'))()

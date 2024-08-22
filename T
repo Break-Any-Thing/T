@@ -1,5 +1,5 @@
---Beta Hub Kill Aura
---Super Premium Spam Skill 
+--Beta Hub Kill a
+--Super Premium Spam Skill
 setclipboard("Hãy Dùng Bảng Beta Hub Hoặc Super Premium Để Được Full Tính Năng Ibox Chủ TestHub Để Gắn Super Premium")
 local plr = game.Players.LocalPlayer
 local AutoExec = game
